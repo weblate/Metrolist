@@ -1425,7 +1425,7 @@
     <string name="lyrics_offset">Décalage des paroles</string>
     <string name="update_available_title">Mise à jour disponible</string>
     <string name="lyrics_romanize_as_main">Afficher d\u0027abord les paroles romanisées</string>
-    <string name="cache_size_warning_title">Réduire la limite du cache ?</string>
+    <string name="cache_size_warning_title">Réduire la limite du cache ?</string>
     <string name="cache_size_warning_message">Vous avez sélectionné une taille maximale de cache inférieure à ce que l'application utilise actuellement (%1$s). Si vous continuez, l'application risque de vider une partie du %2$s pour se conformer à la nouvelle limite.</string>
     <string name="error_title">Erreur</string>
     <string name="album_art">Pochette d\u0027album</string>
