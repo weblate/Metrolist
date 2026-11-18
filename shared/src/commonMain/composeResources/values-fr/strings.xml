@@ -112,19 +112,19 @@
         <item quantity="other">%1$d albums</item>
     </plurals>
     <plurals name="n_week">
-        <item quantity="one">%1$d semaine</item>
-        <item quantity="many">%1$d semaines</item>
-        <item quantity="other">%1$d semaines</item>
+        <item quantity="one">%1$d semaine</item>
+        <item quantity="many">%1$d semaines</item>
+        <item quantity="other">%1$d semaines</item>
     </plurals>
     <plurals name="n_month">
-        <item quantity="one">%1$d mois</item>
-        <item quantity="many">%1$d mois</item>
-        <item quantity="other">%1$d mois</item>
+        <item quantity="one">%1$d mois</item>
+        <item quantity="many">%1$d mois</item>
+        <item quantity="other">%1$d mois</item>
     </plurals>
     <plurals name="n_year">
-        <item quantity="one">%1$d an</item>
-        <item quantity="many">%1$d ans</item>
-        <item quantity="other">%1$d ans</item>
+        <item quantity="one">%1$d an</item>
+        <item quantity="many">%1$d ans</item>
+        <item quantity="other">%1$d ans</item>
     </plurals>
     <string name="undo">Annuler</string>
     <string name="lyrics_not_found">Paroles introuvables</string>
@@ -132,15 +132,15 @@
     <string name="sleep_timer_end_current_song">Fin du titre en cours</string>
     <string name="sleep_timer_fade_out">Fondu de fin</string>
     <string name="sleep_timer_fade_out_enabled">Pendant la dernière minute, le volume va diminuer progressivement.</string>
-    <string name="sleep_timer_remaining">Temps restant : %1$s</string>
+    <string name="sleep_timer_remaining">Temps restant : %1$s</string>
     <string name="sleep_timer_cancel">Arrêter</string>
     <string name="error_unknown">Erreur inconnue</string>
-    <string name="action_like">J\u0027aime</string>
+    <string name="action_like">J'aime</string>
     <string name="repeat_mode_off">Lecture en boucle désactivée</string>
     <string name="repeat_mode_one">Répéter le titre actuel</string>
     <string name="repeat_mode_all">Répéter la file d'attente</string>
     <string name="up_next">À suivre</string>
-    <string name="queue_loading">Chargement de la file d\u0027attente…</string>
+    <string name="queue_loading">Chargement de la file d'attente…</string>
     <string name="calculating">Calcul…</string>
     <plurals name="queue_track_count_duration">
         <item quantity="one">%1$d titre · %2$s</item>
@@ -160,7 +160,7 @@
     <string name="action_login">Se connecter</string>
     <string name="action_not_now">Plus tard</string>
     <string name="youtube_session_expired_title">Vous semblez avoir été déconnecté</string>
-    <string name="youtube_session_expired_message">Veuillez vous reconnecter pour rétablir les fonctionnalités liées à votre compte YouTube. Vous pouvez continuer d\u0027écouter hors connexion les titres téléchargés et mis en cache.</string>
+    <string name="youtube_session_expired_message">Veuillez vous reconnecter pour rétablir les fonctionnalités liées à votre compte YouTube. Vous pouvez continuer d'écouter hors connexion les titres téléchargés et mis en cache.</string>
     <string name="audio_quality">Qualité audio</string>
     <string name="audio_quality_auto">Automatique</string>
     <string name="audio_quality_high">Élevée</string>
@@ -173,7 +173,7 @@
     <string name="skip_silence">Passer les silences</string>
     <string name="audio_normalization">Normalisation audio</string>
     <string name="auto_skip_next_on_error">Passer le titre en cas d'erreur</string>
-    <string name="auto_skip_next_on_error_desc">Passe au titre suivant en cas d\u0027erreur de lecture</string>
+    <string name="auto_skip_next_on_error_desc">Passe au titre suivant en cas d'erreur de lecture</string>
     <string name="stop_music_on_task_clear">Arrêter la lecture à la fermeture de l'application</string>
     <string name="storage">Stockage</string>
     <string name="music_video_quality" tools:ignore="MissingTranslation">Qualité vidéo</string>
@@ -191,12 +191,12 @@
     <string name="unlimited">Illimité</string>
     <string name="clear_all_downloads">Supprimer les téléchargements</string>
     <string name="clear_all_downloads_dialog">Supprimer tous les titres téléchargés ?</string>
-    <string name="max_image_cache_size">Taille maximale du cache d\u0027images</string>
-    <string name="clear_image_cache">Vider le cache d\u0027images</string>
+    <string name="max_image_cache_size">Taille maximale du cache d'images</string>
+    <string name="clear_image_cache">Vider le cache d'images</string>
     <string name="max_song_cache_size">Taille maximale du cache des titres</string>
     <string name="clear_song_cache">Vider le cache des titres</string>
     <string name="song_cache_location">Emplacement du cache des titres</string>
-    <string name="song_cache_location_internal">Stockage interne de l\u0027application</string>
+    <string name="song_cache_location_internal">Stockage interne de l'application</string>
     <string name="song_cache_location_internal_desc">Masqué dans l'espace de stockage de l'application</string>
     <string name="song_cache_location_shared_media">Dossier multimédia partagé</string>
     <string name="song_cache_location_shared_media_desc">Accessible dans le dossier Android/media pour les gestionnaires de fichiers et les lecteurs multimédia</string>
@@ -1528,7 +1528,7 @@
     <string name="settings_theme_color_description">Choisissez la couleur utilisée pour la palette de couleurs de l\u0027application</string>
     <string name="settings_color_hex">Code Hex</string>
     <string name="settings_home_sections">Sections de la page d'accueil</string>
-    <string name="settings_home_sections_description">Choisissez quels compartiments apparaissent dans l\u0027onglet Accueil</string>
+    <string name="settings_home_sections_description">Choisissez quels compartiments apparaissent dans l'onglet Accueil</string>
     <string name="settings_home_section_items">%1$d éléments</string>
     <string name="settings_home_section_dynamic">Compartiment dynamique de l\u0027onglet Accueil</string>
     <string name="menu_file">Fichier</string>
