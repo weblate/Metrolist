@@ -975,8 +975,8 @@
     </plurals>
     <plurals name="hours">
         <item quantity="one">O oră</item>
-        <item quantity="few">%1$d ore</item>
-        <item quantity="other">%1$d de ore</item>
+        <item quantity="few">%1$d ore</item>
+        <item quantity="other">%1$d de ore</item>
     </plurals>
     <plurals name="listening_times">
         <item quantity="one">O dată</item>
@@ -995,8 +995,8 @@
     </plurals>
     <plurals name="minutes">
         <item quantity="one">Un minut</item>
-        <item quantity="few">%1$d minute</item>
-        <item quantity="other">%1$d de minute</item>
+        <item quantity="few">%1$d minute</item>
+        <item quantity="other">%1$d de minute</item>
     </plurals>
     <plurals name="n_track">
         <item quantity="one">O piesă</item>
@@ -1837,7 +1837,7 @@
     <string name="openrouter_auth_code">Cod de autorizare</string>
     <string name="seek_duration_description_android">Secunde de omis prin atingerea dublă a copertei de album sau folosind butoanele pentru omitere</string>
     <string name="seek_duration_description_skip_controls">Secunde de omis folosind butoanele de omitere</string>
-    <string name="seek_feedback_seconds">%1$d s</string>
+    <string name="seek_feedback_seconds">%1$d s</string>
     <string name="seek_feedback_description">%1$s, %2$s</string>
     <string name="keep_screen_on">Menține ecranul pornit</string>
     <string name="keep_screen_on_both">%1$s + %2$s</string>
@@ -2709,4 +2709,7 @@
     <string name="lyrics_romanization_show_romanization_description">Afișează romanizarea sub versuri</string>
     <string name="search_episodes">Caută episoade</string>
     <string name="share_song_to_story">Distribuie în poveste</string>
+    <string name="playlist_lock"></string>
+    <string name="duration_three_units"></string>
+    <string name="duration_two_units"></string>
 </resources>
