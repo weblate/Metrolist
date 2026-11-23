@@ -954,9 +954,9 @@
         <item quantity="other">S-au adăugat %1$d de melodii în %2$s</item>
     </plurals>
     <plurals name="history_days_ago">
-        <item quantity="one">Acum %1$dz</item>
-        <item quantity="few">Acum %1$dz</item>
-        <item quantity="other">Acum %1$dz</item>
+        <item quantity="one">Acum %1$d zi</item>
+        <item quantity="few">Acum %1$d zile</item>
+        <item quantity="other">Acum %1$d de zile</item>
     </plurals>
     <plurals name="history_delete_items_title">
         <item quantity="one">Ștergi un element din istoric?</item>
@@ -964,17 +964,17 @@
         <item quantity="other">Ștergi %1$d de elemente din istoric?</item>
     </plurals>
     <plurals name="history_hours_ago">
-        <item quantity="one">Acum %1$dh</item>
-        <item quantity="few">Acum %1$dh</item>
-        <item quantity="other">Acum %1$dh</item>
+        <item quantity="one">Acum %1$d oră</item>
+        <item quantity="few">Acum %1$d ore</item>
+        <item quantity="other">Acum %1$d de ore</item>
     </plurals>
     <plurals name="history_minutes_ago">
-        <item quantity="one">Acum %1$dm</item>
-        <item quantity="few">Acum %1$dm</item>
-        <item quantity="other">Acum %1$dm</item>
+        <item quantity="one">Acum %1$d minut</item>
+        <item quantity="few">Acum %1$d minute</item>
+        <item quantity="other">Acum %1$d de minute</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="one">O oră</item>
+        <item quantity="one">%1$d oră</item>
         <item quantity="few">%1$d ore</item>
         <item quantity="other">%1$d de ore</item>
     </plurals>
@@ -2709,7 +2709,9 @@
     <string name="lyrics_romanization_show_romanization_description">Afișează romanizarea sub versuri</string>
     <string name="search_episodes">Caută episoade</string>
     <string name="share_song_to_story">Distribuie în poveste</string>
-    <string name="playlist_lock"></string>
-    <string name="duration_three_units"></string>
-    <string name="duration_two_units"></string>
+    <string name="playlist_lock">Blochează</string>
+    <string name="duration_three_units">%1$s, %2$s și %3$s</string>
+    <string name="duration_two_units">%1$s, %2$s</string>
+    <string name="song_share_link">Linkuri melodie</string>
+    <string name="song_share_link_description">song.link deschide o pagină cu melodia pe alte servicii de muzică. Linkurile cu marcaj de timp și episoadele de podcast folosesc întotdeauna YouTube Music.</string>
 </resources>
