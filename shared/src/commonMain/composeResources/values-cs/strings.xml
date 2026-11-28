@@ -2854,4 +2854,6 @@
     <string name="car_lights_vivid_description">Zvýší sytost, aby jemné barvy motivu zůstaly na LED páscích výrazné</string>
     <string name="car_lights_send_now">Odeslat barvy</string>
     <string name="car_lights_send_now_description">Odešle aktuální barvy motivu do osvětlení</string>
+    <string name="lyrics_always_show_background_lines">Vždy zobrazovat doprovodné vokály</string>
+    <string name="lyrics_always_show_background_lines_description">Ponechá doprovodné vokály viditelné i u neaktivních řádků</string>
 </resources>
