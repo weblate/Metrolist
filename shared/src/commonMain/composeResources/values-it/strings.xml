@@ -2799,4 +2799,6 @@
     <string name="car_lights_vivid_description">Aumenta la saturazione per mantenere vividi i colori tenui del tema sui LED</string>
     <string name="car_lights_send_now">Invia colori ora</string>
     <string name="car_lights_send_now_description">Invia i colori del tema alle luci</string>
+    <string name="lyrics_always_show_background_lines">Mostra sempre le voci di sottofondo</string>
+    <string name="lyrics_always_show_background_lines_description">Mantieni le voci di sottofondo visibili quando la linea principale non è attiva</string>
 </resources>
