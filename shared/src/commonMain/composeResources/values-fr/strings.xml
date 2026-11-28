@@ -129,10 +129,10 @@
     <string name="undo">Annuler</string>
     <string name="lyrics_not_found">Paroles introuvables</string>
     <string name="sleep_timer">Minuteur de veille</string>
-    <string name="sleep_timer_end_current_song">Fin du titre en cours</string>
+    <string name="sleep_timer_end_current_song">Fin du titre</string>
     <string name="sleep_timer_fade_out">Fondu de fin</string>
-    <string name="sleep_timer_fade_out_enabled">Pendant la dernière minute, le volume va diminuer progressivement.</string>
-    <string name="sleep_timer_remaining">Temps restant : %1$s</string>
+    <string name="sleep_timer_fade_out_enabled">Le volume va diminuer progressivement pendant la dernière minute.</string>
+    <string name="sleep_timer_remaining">Temps restant : %1$s</string>
     <string name="sleep_timer_cancel">Arrêter</string>
     <string name="error_unknown">Erreur inconnue</string>
     <string name="action_like">J'aime</string>
@@ -151,8 +151,8 @@
     <string name="playback_notification_channel_name">Lecture</string>
     <string name="settings">Paramètres</string>
     <string name="theme_mode">Thème</string>
-    <string name="pure_black">Noir profond</string>
-    <string name="lyrics_provided_by">Paroles fournies par %1$s</string>
+    <string name="pure_black">Noir</string>
+    <string name="lyrics_provided_by">Source : %1$s</string>
     <string name="lyrics_written_by">Écrit par %1$s</string>
     <string name="lyrics_auto_scroll_btn">Défilement automatique</string>
     <string name="squiggly">Ondulé</string>
@@ -181,8 +181,8 @@
     <string name="music_video_quality_auto" tools:ignore="MissingTranslation">Automatique</string>
     <string name="music_video_quality_resolution" tools:ignore="MissingTranslation" translatable="false">%1$sp</string>
     <string name="music_video_resolution" tools:ignore="MissingTranslation">Qualité vidéo</string>
-    <string name="music_video_resolution_desc" tools:ignore="MissingTranslation">Change la résolution de la vidéo en cours de lecture</string>
-    <string name="music_video_resolution_current" tools:ignore="MissingTranslation">En cours de lecture</string>
+    <string name="music_video_resolution_desc" tools:ignore="MissingTranslation">Modifiez la résolution de la vidéo en cours</string>
+    <string name="music_video_resolution_current" tools:ignore="MissingTranslation">Résolution actuelle</string>
     <string name="music_video_cache" tools:ignore="MissingTranslation">Cache vidéo</string>
     <string name="clear_music_video_cache" tools:ignore="MissingTranslation">Vider le cache vidéo</string>
     <string name="clear_music_video_cache_desc" tools:ignore="MissingTranslation">Supprime les résolutions vidéo enregistrées pour chaque clip</string>
@@ -197,9 +197,9 @@
     <string name="clear_song_cache">Vider le cache des titres</string>
     <string name="song_cache_location">Emplacement du cache des titres</string>
     <string name="song_cache_location_internal">Stockage interne de l'application</string>
-    <string name="song_cache_location_internal_desc">Masqué dans l'espace de stockage de l'application</string>
-    <string name="song_cache_location_shared_media">Dossier multimédia partagé</string>
-    <string name="song_cache_location_shared_media_desc">Accessible dans le dossier Android/media pour les gestionnaires de fichiers et les lecteurs multimédia</string>
+    <string name="song_cache_location_internal_desc">Masqués dans l'espace de stockage de l'application</string>
+    <string name="song_cache_location_shared_media">Dossier multimédia</string>
+    <string name="song_cache_location_shared_media_desc">Accessibles dans le dossier /Android/media pour les gestionnaires de fichiers et lecteurs multimédia</string>
     <string name="song_cache_location_custom">Autre dossier</string>
     <string name="song_cache_location_custom_desc">Dossier sélectionné via Storage Access Framework</string>
     <string name="song_cache_directory">Dossier du cache des titres</string>
@@ -378,7 +378,7 @@
     <string name="ai_deepl_formality_default">Par défaut</string>
     <string name="offset_ms">%1$d ms</string>
     <string name="downloading">Téléchargement</string>
-    <string name="remove_from_playlist">Retirer de la playlist</string>
+    <string name="remove_from_playlist">Supprimer de la playlist</string>
     <string name="radio">Radio</string>
     <string name="imported_playlist">Playlist importée</string>
     <string name="bitrate_value">%1$d kbit/s</string>
@@ -583,7 +583,7 @@
     <string name="player_background_style">Arrière-plan</string>
     <string name="slider_style">Style de curseur</string>
     <string name="wavy">Oscillant</string>
-    <string name="slim">Fin</string>
+    <string name="slim">Minimaliste</string>
     <string name="slider_track_thickness">Épaisseur de la barre de progression</string>
     <string name="playback_speed">Vitesse de lecture</string>
     <string name="adjust_audio_equalizer">Ajustez l\u0027égaliseur audio</string>
@@ -1158,7 +1158,7 @@
     <string name="sign_in_to_youtube_music">Se connecter à YouTube Music</string>
     <string name="choose_youtube_channel">Sélectionnez une chaîne YouTube</string>
     <string name="choose_youtube_channel_description">Ce compte Google possède plusieurs chaînes. Sélectionnez celle que vous souhaitez utiliser.</string>
-    <string name="skip">Sauter</string>
+    <string name="skip">Passer</string>
     <string name="skipped_duplicate">Doublon ignoré</string>
     <string name="small_album_art">Petite pochette</string>
     <string name="song_already_in_playlist">%1$s se trouve déjà dans cette playlist.</string>
@@ -1425,8 +1425,8 @@
     <string name="lyrics_offset">Décalage des paroles</string>
     <string name="update_available_title">Mise à jour disponible</string>
     <string name="lyrics_romanize_as_main">Afficher d\u0027abord les paroles romanisées</string>
-    <string name="cache_size_warning_title">Réduire la limite du cache ?</string>
-    <string name="cache_size_warning_message">Vous avez sélectionné une taille maximale de cache inférieure à ce que l'application utilise actuellement (%1$s). Si vous continuez, l'application risque de vider une partie du %2$s pour se conformer à la nouvelle limite.</string>
+    <string name="cache_size_warning_title">Réduire la taille du cache ?</string>
+    <string name="cache_size_warning_message">Vous avez sélectionné une taille maximale de cache inférieure à ce que l'application utilise actuellement (%1$s). L'application va vider une partie du %2$s pour se conformer à la nouvelle limite.</string>
     <string name="error_title">Erreur</string>
     <string name="album_art">Pochette d\u0027album</string>
     <string name="previous">Précédent</string>
@@ -1528,7 +1528,7 @@
     <string name="settings_theme_color_description">Choisissez la couleur utilisée pour la palette de couleurs de l\u0027application</string>
     <string name="settings_color_hex">Code Hex</string>
     <string name="settings_home_sections">Sections de la page d'accueil</string>
-    <string name="settings_home_sections_description">Choisissez quels compartiments apparaissent dans l'onglet Accueil</string>
+    <string name="settings_home_sections_description">Sélectionnez les sections à afficher sur la page d'accueil</string>
     <string name="settings_home_section_items">%1$d éléments</string>
     <string name="settings_home_section_dynamic">Compartiment dynamique de l\u0027onglet Accueil</string>
     <string name="menu_file">Fichier</string>
@@ -1622,7 +1622,7 @@
     <string name="error">Erreur</string>
     <string name="start">Démarrer</string>
     <string name="enable_song_cache">Cache des titres</string>
-    <string name="enable_song_cache_desc">Met automatiquement les titres dans le cache pendant la lecture</string>
+    <string name="enable_song_cache_desc">Les titres lus sont automatiquement ajoutés au cache</string>
     <string name="no_logs_available">Aucun journal disponible</string>
     <string name="export_logs">Exporter les journaux</string>
     <string name="create_backup">Sauvegarder</string>
@@ -2058,7 +2058,7 @@
     <string name="window_maximize">Agrandir</string>
     <string name="window_restore">Restaurer la fenêtre</string>
     <string name="equalizer_stream_unavailable">L'égaliseur et le préampli ne sont pas disponibles pour ce flux. Les modifications s'appliqueront à la lecture d'un titre pris en charge.</string>
-    <string name="sleep_timer_end_current_song_description">Minuteur de veille : fin du titre en cours</string>
+    <string name="sleep_timer_end_current_song_description">Minuteur de veille : fin du titre</string>
     <string name="repeat_mode_description">Répétition : %1$s</string>
     <string name="statistics_plays_label">Écoutes</string>
     <plurals name="statistics_plays">
@@ -2235,7 +2235,7 @@
     <string name="settings_share_apk_summary">Partagez le fichier APK de l'application installée</string>
     <string name="settings_system_font_summary">Utilisez la police fournie par votre système d'exploitation</string>
     <string name="settings_thumbnail_shape_summary">Choisissez la forme des images dans le lecteur agrandi</string>
-    <string name="settings_audio_quality_summary">Une qualité supérieure utilise davantage de données et d'espace de stockage</string>
+    <string name="settings_audio_quality_summary">Une qualité supérieure consomme plus de données et d'espace de stockage</string>
     <string name="settings_resume_prompt_summary">Demandez confirmation avant de reprendre la file enregistrée au démarrage de l'application</string>
     <string name="settings_player_layout_summary">Modifiez la disposition des images et des commandes de lecture</string>
     <string name="settings_filter_q_summary">Q règle la largeur ou la résonance du filtre sélectionné</string>
@@ -2294,7 +2294,7 @@
     <string name="canvas">Canvas</string>
     <string name="canvas_cache">Cache des Canvas</string>
     <string name="equalizer_band_gain">%1$s Hz · %2$s dB</string>
-    <string name="sleep_timer_finish_current_song">Terminer le titre en cours à la fin du minuteur</string>
+    <string name="sleep_timer_finish_current_song">Terminer la lecture du titre en cours à la fin du minuteur</string>
     <string name="lyrics_capability_line_syllable">Ligne et syllabe</string>
     <string name="lyrics_capability_line_syllable_unsynced">Ligne, syllabe et non synchronisées</string>
     <string name="lyrics_capability_line_unsynced">Ligne et non synchronisées</string>
@@ -2460,7 +2460,7 @@
     <string name="statistics_calendar_year">Année calendaire</string>
     <string name="statistics_calendar_hint">Choisissez n'importe quel jour de la semaine, du mois ou de l'année.</string>
     <string name="statistics_date_range">%1$s – %2$s</string>
-    <string name="choose_cover_image">Choisissez une image</string>
+    <string name="choose_cover_image">Sélectionner une image</string>
     <string name="statistics_continuous_mode">Glissant</string>
     <string name="statistics_calendar_mode">Calendaire</string>
     <string name="tempo_pitch_decrease">Diminuer %1$s</string>
